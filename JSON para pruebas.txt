@@ -1,0 +1,29 @@
+{
+  "nombre": "Riñón",
+  "estado": "Disponible",
+  "precio": 5000000,
+  "proveedorId": 2,
+  "descripcion": "Un riñón perfecto"   
+}
+
+{
+    "nombre": "Xeng Wu",
+    "edad": 10,
+    "direccion": "Calle en China, 123",
+    "calificacion": 4.5
+}
+
+{
+    "nombre": "ElBeja",
+    "email": "elbeja@gmail.com",
+    "telefono": "1234567890",
+    "documentoIdentidad": "0987654321"
+}
+
+{
+    "ClienteId": 1,
+    "nuevaDireccion": "Calle en Colombia, 123",
+    "informacionAdicional": "Se cambió por seguridad",
+    "riesgos": "Que lo maten"
+    "confirmado": True
+}
